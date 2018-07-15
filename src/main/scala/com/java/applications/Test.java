@@ -32,11 +32,8 @@ public class Test {
         System.out.println(sal);
     }
 
-    public void  f2(){
-
+    public void testing(){
+        System.out.println("this is only for testing");
     }
 
-    public void f3(){
-
-    }
 }
