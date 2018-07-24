@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.lang.Math;
 
 /**
- * Created by adity on 6/28/2018.
+ * Created by thanu on 6/28/2018.
  */
 /*public class Guess {
 
