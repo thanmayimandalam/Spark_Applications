@@ -5,7 +5,7 @@ import com.sun.org.apache.regexp.internal.RE;
 import java.util.Scanner;
 
 /**
- * Created by adity on 6/28/2018.
+ * Created by thanu on 6/28/2018.
  */
 public class Rectangle {
 
