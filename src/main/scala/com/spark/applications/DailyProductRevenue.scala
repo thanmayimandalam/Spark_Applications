@@ -3,7 +3,7 @@ package com.spark.applications
 import org.apache.spark.{SparkConf, SparkContext}
 
 /**
-  * Created by adity on 6/19/2018.
+  * Created by Thanu on 6/19/2018.
   */
 object DailyProductRevenue {
   def main(args: Array[String]): Unit = {
