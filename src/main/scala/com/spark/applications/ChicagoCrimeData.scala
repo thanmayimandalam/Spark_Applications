@@ -4,7 +4,7 @@ import org.apache.spark.sql.hive.HiveContext
 import org.apache.spark.{SparkConf, SparkContext}
 
 /**
-  * Created by adity on 6/20/2018.
+  * Created by Thanu on 6/20/2018.
   */
 object ChicagoCrimeData {
 /*
