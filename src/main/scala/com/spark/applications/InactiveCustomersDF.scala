@@ -4,7 +4,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.sql.hive.HiveContext
 
 /**
-  * Created by adity on 6/21/2018.
+  * Created by Thanu on 6/21/2018.
   */
 object InactiveCustomersDF {
 
